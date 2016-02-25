@@ -1,0 +1,23 @@
+#rood {
+    background-color: red;
+}
+
+#oranje {
+    background-color: orange;
+}
+
+#geel {
+    background-color: yellow;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px 10px 30px; 
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+body {
+    margin: 0;
+    font-family: Calibri thin;
+}
